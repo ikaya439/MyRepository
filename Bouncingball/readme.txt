@@ -1,4 +1,4 @@
 OpenGl
 language:c++
-RgbImage.cpp and RgbImage.h to the .bmp pictures
-used basketball ball and basketball area texture 
+RgbImage.cpp and RgbImage.h classes are used to read .bmp extension picures
+used basketball ball and area pictures to texture objects
